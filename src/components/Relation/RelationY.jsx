@@ -268,7 +268,6 @@ export default class Relation extends Component {
     }
 
     render() {
-
         return (
             <div className="container">
                 <h1>关系检索 </h1>
