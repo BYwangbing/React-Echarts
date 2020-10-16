@@ -278,7 +278,6 @@ export default class Relation extends Component {
                     this.getData(this.textInput.current.state.value)
                 }}>查询</Button>&emsp;
                 <div id="chart" style={{  height: 1000 }}>
-
                 </div>
             </div>
         )
